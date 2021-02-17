@@ -5,6 +5,10 @@
 </template>
 
 <script>
-  export default {
-  }
+export default {};
 </script>
+<style lang="scss" scoped>
+body .el-table th.gutter {
+  display: table-cell !important;
+}
+</style>
